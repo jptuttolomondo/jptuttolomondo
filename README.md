@@ -50,7 +50,7 @@ Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, ap
   
 
 
-<a href="https://https://www.linkedin.com/in/juan-pablo-tuttolomondo/" target="_blank">
+<a href="https://www.linkedin.com/in/juan-pablo-tuttolomondo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=the-badge&logo=linkedin&logoColor=white" alt="rails" width="120" heigh="120" style="max-width:100%"></a>
 
 
