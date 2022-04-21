@@ -1,6 +1,6 @@
 # Juan Pablo Tuttolomondo👋
 ## FullStack Developer
-<!--
+###Soy una persona acostumbrada a trabajar bajo presion en diferentes contextos, 
 
 **jptuttolomondo/jptuttolomondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
