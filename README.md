@@ -3,10 +3,10 @@
 ## FullStack Developer
 
 
-Soy una persona acostumbrada a trabajar bajo presion en diferentes contextos, con el objetivo de mejorar la vida de la gente mediante el desarrollo de sistemas web.Buscando actualizarme constantemente, estoy esperando la oportunidad para lograr desarrollarme profesionalmente en en mundo de la programación.Sé trabajar en equipo y trabajar coordinadamente, siempre dispuesto a ayudar en lo que pueda.
-Soy Licenciado en Análisis de Sistemas,actualmente Finalizando soyHenry Fullstack Bootcamp, con tecnologias React-Redux, Node JS, Sequelize, PostgreSql. Prefiero trabaja en logicas de Backend.
+Soy una persona acostumbrada a trabajar bajo presión en diferentes contextos, con el objetivo de mejorar la vida de la gente mediante el desarrollo de sistemas web. Buscando actualizarme constantemente, estoy esperando la oportunidad para lograr desarrollarme profesionalmente en en mundo de la programación. Sé trabajar en equipo coordinadamente, siempre dispuesto a ayudar en lo que pueda.
+Soy Licenciado en Análisis de Sistemas, actualmente Finalizando soyHenry Fullstack Bootcamp, con tecnologias React-Redux, Node JS, Sequelize, PostgreSql, NPM. Prefiero trabajar en lógicas de Backend.
 
-Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, aplicando tecnicas de Machine Learning. Como complemento al procesamiento de imagenes soy piloto de drones.
+Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, aplicando técnicas de Machine Learning. Como complemento al procesamiento de imágenes soy piloto de drones.
 <h2>
   <a name="Mis Habilidades" href="#mis habilidades">
   </a>
@@ -51,9 +51,6 @@ Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, ap
   <br></br>
   
   
-
-  
-
 
 <a href="https://www.linkedin.com/in/juan-pablo-tuttolomondo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=the-badge&logo=linkedin&logoColor=white" alt="rails" width="120" heigh="120" style="max-width:100%"></a>
