@@ -3,7 +3,7 @@
 ## FullStack Developer
 
 
-Soy una persona acostumbrada a trabajar bajo presion en diferentes contextos, 
+Soy una persona acostumbrada a trabajar bajo presion en diferentes contextos, con el objetivo de mejorar la vida de la gente mediante el desarrollo de sistemas web.Buscando actualizarme constantemente, estoy esperando la oprotunidad para logra desarrollarme profesionalmente en en mundo de la programación
 
 **jptuttolomondo/jptuttolomondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
