@@ -3,36 +3,15 @@
 ## FullStack Developer
 
 
-Soy una persona acostumbrada a trabajar bajo presion en diferentes contextos, con el objetivo de mejorar la vida de la gente mediante el desarrollo de sistemas web.Buscando actualizarme constantemente, estoy esperando la oprotunidad para logra desarrollarme profesionalmente en en mundo de la programación
+Soy una persona acostumbrada a trabajar bajo presion en diferentes contextos, con el objetivo de mejorar la vida de la gente mediante el desarrollo de sistemas web.Buscando actualizarme constantemente, estoy esperando la oportunidad para lograr desarrollarme profesionalmente en en mundo de la programación.Sé trabajar en equipo y trabajar coordinadamente, siempre dispuesto a ayudar en lo que pueda.
+Soy Licenciado en Análisis de Sistemas,actualmente Finalizando soyHenry Fullstack Bootcamp, con tecnologias React-Redux, Node JS, Sequelize, PostgreSql. Prefiero trabaja en logicas de Backend.
 
-**jptuttolomondo/jptuttolomondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, aplicando tecnicas de Machine Learning. Como complemento al procesamiento de imagenes soy piloto de drones.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-![image](https://user-images.githubusercontent.com/92340417/164362765-016ca7ea-cb97-4f8d-8a47-705c848bc8d7.png)
+![image](https://user-images.githubusercontent.com/92340417/164476809-a4d43516-018a-4aec-8d14-457423505486.png)![image](https://user-images.githubusercontent.com/92340417/164474436-fc99ca9b-c48a-4aac-a556-126f58d4aeee.png)![image](https://user-images.githubusercontent.com/92340417/164474547-02d64449-66c9-4070-bf20-0c9144c3ce23.png)![image](https://user-images.githubusercontent.com/92340417/164475115-950eeba4-7c7a-4e3c-b553-35e620abdb28.png)![image](https://user-images.githubusercontent.com/92340417/164474627-5732e05b-d62d-4759-aa6d-1723e367cfbb.png) ![image](https://user-images.githubusercontent.com/92340417/164474840-9e2f9601-1f59-41b8-a220-0cd39452fcc3.png)![image](https://user-images.githubusercontent.com/92340417/164474956-137dd126-81ac-4fd7-8b2a-46daff5329b9.png)![image](https://user-images.githubusercontent.com/92340417/164475580-87ab36a5-237c-4f93-af75-4425c56723d4.png)![image](https://user-images.githubusercontent.com/92340417/164363093-c552a1eb-b2d8-4a96-934e-be736346b8bd.png)![image](https://user-images.githubusercontent.com/92340417/164477116-ecfb86ab-7e81-4196-b1eb-16bcbfb3e61f.png)
 
-![image](https://user-images.githubusercontent.com/92340417/164362894-ee00681a-71fc-497d-b8a2-69155c8c4b1d.png)
 
-![image](https://user-images.githubusercontent.com/92340417/164362988-20e9974e-1742-414d-94d2-f56ad6125f78.png)
+Contact: jptuttolomondo@hotmail.com
 
-![image](https://user-images.githubusercontent.com/92340417/164363026-46b2f320-7592-420e-9154-82109915445f.png)
-
-![image](https://user-images.githubusercontent.com/92340417/164363059-ca444e34-cfed-4935-a33b-41e8bff01e85.png)
-
-![image](https://user-images.githubusercontent.com/92340417/164363093-c552a1eb-b2d8-4a96-934e-be736346b8bd.png)
-
-![image](https://user-images.githubusercontent.com/92340417/164363123-c09fd3b1-80f0-45e8-b94a-fbcf7c5c3639.png)
-
-![image](https://user-images.githubusercontent.com/92340417/164363163-bdea7134-9dbd-4ab2-9d09-d16af6ce0587.png)
-
-![image](https://user-images.githubusercontent.com/92340417/164363196-563aeda0-192c-4198-af88-9cd1ca58fc1d.png)
-
+https://www.linkedin.com/in/juan-pablo-tuttolomondo/
