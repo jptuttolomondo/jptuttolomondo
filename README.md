@@ -17,36 +17,41 @@ Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, ap
    <img src="https://user-images.githubusercontent.com/92340417/164475115-950eeba4-7c7a-4e3c-b553-35e620abdb28.png" alt="rails" width="145" heigh="145" style="max-width:100%"></a>
   
   
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/es/docs/Web/HTML">
     <img src="https://user-images.githubusercontent.com/92340417/164476809-a4d43516-018a-4aec-8d14-457423505486.png"></a>  
   
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+  <a href="https://es.wikipedia.org/wiki/Node.js">
     <img src="https://user-images.githubusercontent.com/92340417/164474436-fc99ca9b-c48a-4aac-a556-126f58d4aeee.png"></a>
   
   
-   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+   <a href="https://es.wikipedia.org/wiki/PostgreSQL">
     <img src="https://user-images.githubusercontent.com/92340417/164474547-02d64449-66c9-4070-bf20-0c9144c3ce23.png"></a>
     
-   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+   <a href="https://es.reactjs.org/">
     <img src="https://user-images.githubusercontent.com/92340417/164474627-5732e05b-d62d-4759-aa6d-1723e367cfbb.png"></a>
   
 
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+  <a href="https://expressjs.com/es/">
     <img src="https://user-images.githubusercontent.com/92340417/164492392-cc511766-f44b-4f1f-836e-dbfc9ef037da.png"></a>
 
 
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+<a href="https://es.redux.js.org/">
     <img src="https://user-images.githubusercontent.com/92340417/164363093-c552a1eb-b2d8-4a96-934e-be736346b8bd.png"></a>
 
 
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/es/docs/Web/CSS">
     <img src="https://user-images.githubusercontent.com/92340417/164477116-ecfb86ab-7e81-4196-b1eb-16bcbfb3e61f.png"></a>
+    
   
+<a href="https://es.wikipedia.org/wiki/GitHub">
+    <img src="https://user-images.githubusercontent.com/92340417/164510411-ddf2e52b-5661-4b99-a159-d146e3ebebad.png"></a> 
+
+
   
   <br></br>
   
   
-  
+
   
 
 
