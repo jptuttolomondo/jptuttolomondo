@@ -1,71 +1,57 @@
-# Juan Pablo Tuttolomondo👋
 
-## FullStack Developer
+Hi 👋 My name is Juan Pablo Tuttolomondo
+========================================
 
+FullStack Web Developer
+-----------------------
 
-Soy una persona acostumbrada a trabajar bajo presión en diferentes contextos, con el objetivo de mejorar la vida de la gente mediante el desarrollo de sistemas web. Buscando actualizarme constantemente, estoy esperando la oportunidad para lograr desarrollarme profesionalmente en en mundo de la programación. Sé trabajar en equipo coordinadamente, siempre dispuesto a ayudar en lo que pueda.
-Soy Licenciado en Análisis de Sistemas, actualmente Finalizando soyHenry Fullstack Bootcamp, con tecnologias React-Redux, Node JS, Sequelize, PostgreSql, NPM. Prefiero trabajar en lógicas de Backend.
+Soy una persona acostumbrada a trabajar bajo presión en diferentes contextos, con el objetivo de mejorar la vida de la gente mediante el desarrollo de sistemas web. Buscando actualizarme constantemente, estoy esperando la oportunidad para lograr desarrollarme profesionalmente en en mundo de la programación. Sé trabajar en equipo coordinadamente, siempre dispuesto a ayudar en lo que pueda. Soy Licenciado en Análisis de Sistemas, actualmente Finalizando soyHenry Fullstack Bootcamp, con tecnologias React-Redux, Node JS, Sequelize, PostgreSql, NPM. Prefiero trabajar en lógicas de Backend. Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, aplicando técnicas de Machine Learning. Como complemento al procesamiento de imágenes soy piloto de drones.
 
-Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, aplicando técnicas de Machine Learning. Como complemento al procesamiento de imágenes soy piloto de drones.
-<h2>
-  <a name="Mis Habilidades" href="#mis habilidades">
-  </a>
-  🛠 Mis Habilidades
-</h2>
+* 🌍  I'm based in Argentina
+* 🖥️  See my portfolio at [Mi Portfolio:](http://portfoliofullstack-nz2e8jeve-jptuttolomondo.vercel.app/)
+* ✉️  You can contact me at [jptuttolomondo@hotmail.com](mailto:jptuttolomondo@hotmail.com)
+* 🚀  I'm currently working on [Art Gallery ecommerce](http://https://sotelino.vercel.app/)
+* 🧠  I'm learning TypeScript- Scrum Master- React-Native -MongoDb
+* 🤝  I'm open to collaborating on
 
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-   <img src="https://user-images.githubusercontent.com/92340417/164475115-950eeba4-7c7a-4e3c-b553-35e620abdb28.png" alt="rails" width="145" heigh="145" style="max-width:100%"></a>
-  
-  
-<a href="https://developer.mozilla.org/es/docs/Web/HTML">
-    <img src="https://user-images.githubusercontent.com/92340417/164476809-a4d43516-018a-4aec-8d14-457423505486.png"></a>  
-  
-  <a href="https://es.wikipedia.org/wiki/Node.js">
-    <img src="https://user-images.githubusercontent.com/92340417/164474436-fc99ca9b-c48a-4aac-a556-126f58d4aeee.png"></a>
-  
-  
-   <a href="https://es.wikipedia.org/wiki/PostgreSQL">
-    <img src="https://user-images.githubusercontent.com/92340417/164474547-02d64449-66c9-4070-bf20-0c9144c3ce23.png"></a>
-    
-   <a href="https://es.reactjs.org/">
-    <img src="https://user-images.githubusercontent.com/92340417/164474627-5732e05b-d62d-4759-aa6d-1723e367cfbb.png"></a>
-  
+<a href="https://www.github.com/jptuttolomondo" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jptuttolomondo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-  <a href="https://expressjs.com/es/">
-    <img src="https://user-images.githubusercontent.com/92340417/164492392-cc511766-f44b-4f1f-836e-dbfc9ef037da.png"></a>
+### Skills
 
-
-<a href="https://es.redux.js.org/">
-    <img src="https://user-images.githubusercontent.com/92340417/164363093-c552a1eb-b2d8-4a96-934e-be736346b8bd.png"></a>
-
-
-<a href="https://developer.mozilla.org/es/docs/Web/CSS">
-    <img src="https://user-images.githubusercontent.com/92340417/164477116-ecfb86ab-7e81-4196-b1eb-16bcbfb3e61f.png"></a>
-    
-  
-<a href="https://es.wikipedia.org/wiki/GitHub">
-    <img src="https://user-images.githubusercontent.com/92340417/164510411-ddf2e52b-5661-4b99-a159-d146e3ebebad.png"></a> 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
-  
-  <br></br>
-  
-  
+### Socials
 
-<a href="https://www.linkedin.com/in/juan-pablo-tuttolomondo/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=the-badge&logo=linkedin&logoColor=white" alt="rails" width="120" heigh="120" style="max-width:100%"></a>
-
-
+<p align="left"> <a href="https://discord.com/users/#4140" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/jptuttolomondo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/jptuttolomondo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/juan-pablo-tuttolomondo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <a href="https://api.whatsapp.com/send?phone=543887400710&text=Hola!!Gracias por contactarme 😃" target="_blank">
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rails" width="135" heigh="135" style="max-width:100%"></a>
+ 
+ 
+### Badges
 
-<h2>
-  <a name="Contacto" href="#contact">
-  </a>
-  📱 Contacto
-</h2>
+<b>My GitHub Stats</b>
 
-Contact: jptuttolomondo@hotmail.com
+<a href="http://www.github.com/jptuttolomondo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jptuttolomondo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="https://github.com/jptuttolomondo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jptuttolomondo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
