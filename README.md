@@ -5,7 +5,7 @@ Hi 👋 My name is Juan Pablo Tuttolomondo
 FullStack Web Developer
 -----------------------
 
-Soy una persona acostumbrada a trabajar bajo presión en diferentes contextos, con el objetivo de mejorar la vida de la gente mediante el desarrollo de sistemas web. Buscando actualizarme constantemente en el mundo de la programación. Sé trabajar en equipo coordinadamente, siempre dispuesto a ayudar en lo que pueda. Soy Licenciado en Análisis de Sistemas, actualmente graduado soyHenry Fullstack Bootcamp, con tecnologias React-Redux, Node JS, Sequelize, PostgreSql, NPM. Prefiero trabajar en lógicas de Backend. 
+Soy una persona acostumbrada a trabajar bajo presión en diferentes contextos, con el objetivo de mejorar la vida de la gente mediante el desarrollo de sistemas web. Buscando actualizarme constantemente en el mundo de la programación. Sé trabajar en equipo coordinadamente, siempre dispuesto a ayudar en lo que pueda. Soy Licenciado en Análisis de Sistemas, actualmente graduado soyHenry Fullstack Bootcamp, con tecnologias React-Redux, Node JS, Sequelize, PostgreSql, NPM, MongoDb, CSS. Prefiero trabajar en lógicas de Backend. 
 Actualmente soy Tutor Backend en CoderHouse, desarrollando una aplicacion para restaurantes. 
 Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, aplicando técnicas de Machine Learning. Como complemento al procesamiento de imágenes soy piloto de drones.
 
