@@ -12,7 +12,6 @@ Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, ap
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [Mi Portfolio:](http://jptuttolomondo.vercel.app/)
 * ✉️  You can contact me at [jptuttolomondo@hotmail.com](mailto:jptuttolomondo@hotmail.com)
-* 
 * 🚀  Some projects [Art Gallery ecommerce](http://https://sotelino.vercel.app/)
 * 🚀  Individual Projects [VideoGames](https://pi-videogames-rust.vercel.app/home)
 * 🚀  Movies Project [Movies](https://app-movies-jptuttolomondo-dbrdkm5i5-jptuttolomondo.vercel.app/home)
