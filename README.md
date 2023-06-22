@@ -12,7 +12,9 @@ Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, ap
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [Mi Portfolio:](http://jptuttolomondo.vercel.app/)
 * ✉️  You can contact me at [jptuttolomondo@hotmail.com](mailto:jptuttolomondo@hotmail.com)
-* 🚀  I'm currently working on [Art Gallery ecommerce](http://https://sotelino.vercel.app/)
+* 
+* 🚀  Some projects [Art Gallery ecommerce](http://https://sotelino.vercel.app/)
+* 🚀  Individual Projects [VideoGames] (https://pi-videogames-d0evm26uq-jptuttolomondo.vercel.app/home)
 * 🧠  I'm learning TypeScript- Scrum Master- React-Native -MongoDb
 * 🤝  I'm open to collaborating on
 
