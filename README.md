@@ -15,6 +15,7 @@ Por otro lado, tambien tengo habilidades como Analista GIS, Image Processing, ap
 * 
 * 🚀  Some projects [Art Gallery ecommerce](http://https://sotelino.vercel.app/)
 * 🚀  Individual Projects [VideoGames](https://pi-videogames-rust.vercel.app/home)
+* 🚀  Movies Project [Movies](https://app-movies-jptuttolomondo-dbrdkm5i5-jptuttolomondo.vercel.app/home)
 * 🧠  I'm learning TypeScript- Scrum Master- React-Native -MongoDb
 * 🤝  I'm open to collaborating on
 
